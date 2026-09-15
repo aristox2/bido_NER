@@ -1,5 +1,5 @@
 # bido_NER
-
+*A template for bidos named NER service* 
 Install
 
 ```bash
